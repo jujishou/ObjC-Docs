@@ -1,6 +1,14 @@
-#<center>Objective-C Coding Style Guidelines</center>
+#Objective-C Coding Style Guidelines>
 
-<center>Henson整理</center>
+整理: Henson(libingcun@gmail.com)
+
+* 背景介绍
+* 空格与格式
+* 命名
+* Cocoa和Objective-C特有的规则
+* Cocoa模式
+
+---
 
 ##参考资料:
 
