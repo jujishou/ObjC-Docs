@@ -1,4 +1,4 @@
-#Objective-C Coding Style Guidelines>
+#Objective-C Coding Style Guidelines
 
 整理: Henson(libingcun@gmail.com)
 
